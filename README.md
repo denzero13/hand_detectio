@@ -1,2 +1,3 @@
 # hand_detectio
-Програма для розпызнавання жестів руки
+Hand gesture recognition program based on Google MediaPipe ML Framework library
+
